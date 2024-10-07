@@ -63,7 +63,7 @@ a {
 }
 
 .cover {
-  background-image: url("/images/cover.jpg");
+  background-image: url("../images/cover.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
@@ -182,21 +182,21 @@ a {
 }
 
 .card_type_film {
-  background-image: url("/images/card-lot-01.jpg");
+  background-image: url("../images/card-lot-01.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
 }
 
 .card_type_book {
-  background-image: url("/images/card-lot-02.jpg");
+  background-image: url("../images/card-lot-02.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
 }
 
 .card_type_picture {
-  background-image: url("/images/card-lot-03.jpg");
+  background-image: url("../images/card-lot-03.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
